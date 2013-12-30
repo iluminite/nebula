@@ -1,0 +1,6 @@
+*.pyc
+*.swo
+*.swp
+build
+id_rsa
+id_rsa.pub
